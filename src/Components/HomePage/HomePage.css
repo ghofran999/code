@@ -1,0 +1,19 @@
+.homepage-Container {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.homepage-navbar {
+  height: 20vh;
+  padding-top: 2vh;
+}
+.homepage-navbar span {
+  padding: 40px;
+  cursor: pointer;
+}
+
+.abc {
+  margin-top: 15%;
+}
